@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH208 - Modern Art"
+course: ARTH208
+course_fulltitle: "Modern Art"
+course_description: "Examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+---
 **Unit 6: The New Avant-Garde After Abstract Expressionism: Neo-Dada,
 Pop Art and Minimalism** <span id="6"></span> 
 In this unit, you will study art movements of the 1950s and 1960s and

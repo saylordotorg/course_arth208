@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH208 - Modern Art"
+course: ARTH208
+course_fulltitle: "Modern Art"
+course_description: "Examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+---
 **Unit 5: The Fall of Paris and the Rise of the American Avant-Garde:
 Abstract Expressionism** <span id="5"></span> 
 In this unit, you will learn about the global shift that took place in

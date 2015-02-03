@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH208 - Modern Art"
+course: ARTH208
+course_fulltitle: "Modern Art"
+course_description: "Examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+---
 Course Syllabus for "ARTH208: Modern Art"
 -----------------------------------------
 
