@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH208 - Modern Art"
-course: ARTH208
-course_fulltitle: "Modern Art"
-course_description: "Examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+title: "ARTH208: Modern Art"
+course_description: "An examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+next: ../Unit02
+previous: ../Intro
+bgimage: arth208.jpg
 ---
 **Unit 1: A New Perspective in Art: Impressionism** <span
 id="1"></span> 

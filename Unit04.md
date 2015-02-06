@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH208 - Modern Art"
-course: ARTH208
-course_fulltitle: "Modern Art"
-course_description: "Examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+title: "ARTH208: Modern Art"
+course_description: "An examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+next: ../Unit05
+previous: ../Unit03
+bgimage: arth208.jpg
 ---
 **Unit 4: The Manifesto Era: Suprematism, Constructivism, Dada and
 Surrealism** <span id="4"></span> 

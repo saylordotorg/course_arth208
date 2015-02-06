@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH208 - Modern Art"
-course: ARTH208
-course_fulltitle: "Modern Art"
-course_description: "Examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+title: "ARTH208: Modern Art"
+course_description: "An examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+next: ../Unit08
+previous: ../Unit06
+bgimage: arth208.jpg
 ---
 **Unit 7: The Roots of Contemporary Art: Post-Minimalism, Conceptualism,
 Performance Art, Feminist Art, and Neo-Expressionism** <span

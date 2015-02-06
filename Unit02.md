@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH208 - Modern Art"
-course: ARTH208
-course_fulltitle: "Modern Art"
-course_description: "Examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+title: "ARTH208: Modern Art"
+course_description: "An examination of the various artistic movements that comprise 19th- and 20th-century modern art."
+next: ../Unit03
+previous: ../Unit01
+bgimage: arth208.jpg
 ---
 **Unit 2: Turn of the Century Art: Post-Impressionism, Symbolism and Art
 Nouveau** <span id="2"></span> 
