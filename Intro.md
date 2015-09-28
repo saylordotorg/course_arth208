@@ -123,3 +123,4 @@ complete.
 - [Unit 6](https://legacy.saylor.org/arth208/Unit06/)
 - [Unit 7](https://legacy.saylor.org/arth208/Unit07/)
 - [Unit 8](https://legacy.saylor.org/arth208/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH208/ARTH208-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH208/ARTH208-FinalExam-Answers.html)
