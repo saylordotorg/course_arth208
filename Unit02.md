@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Movements:
     “Post-Impressionism”**
     Link: The Art Story Foundation’s Movements:
-    [“Post-Impressionism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.1.1-Post-Impressionism.pdf)
+    [“Post-Impressionism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.1.1-Post-Impressionism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Unlike Impressionism,
@@ -81,7 +81,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.1.2 Georges Seurat** <span id="2.1.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Georges Seurat”**
     Link: The Art Story Foundation’s Artists: [“Georges
-    Seurat”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.1.2-Georges-Seurat.pdf)
+    Seurat”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.1.2-Georges-Seurat.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Seurat is best known
@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.1.3 Vincent van Gogh** <span id="2.1.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Vincent van Gogh”**
     Link: The Art Story Foundation’s Artists: [“Vincent van
-    Gogh”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.1.3-Vincent-Van-Gogh.pdf)
+    Gogh”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.1.3-Vincent-Van-Gogh.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Van Gogh has one of the
@@ -122,7 +122,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.1.4 Paul Gauguin** <span id="2.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Paul Gauguin”**
     Link: The Art Story Foundation’s Artists: [“Paul
-    Gauguin”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.1.4-Paul-Gaugin.pdf)
+    Gauguin”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.1.4-Paul-Gaugin.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Gauguin has been called
@@ -141,7 +141,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.1.5 Paul Cézanne** <span id="2.1.5"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Paul Cézanne”**
     Link: The Art Story Foundation’s Artists: [“Paul
-    Cézanne”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.1.5-Paul-Cezanne.pdf)
+    Cézanne”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.1.5-Paul-Cezanne.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. You may note from
@@ -150,7 +150,7 @@ Upon successful completion of this unit, the student will be able to:
     attention to how Cézanne’s visual style changes and becomes more
     abstract over time. As an option, you may want to read The Art
     Story’s [“Abstract vs. Figurative
-    Art”](http://www.saylor.org/site/wp-content/uploads/2012/02/The-Art-Story_-Comparison_-Abstract-vs.-Figurative-Art.pdf)(PDF)
+    Art”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/The-Art-Story_-Comparison_-Abstract-vs.-Figurative-Art.pdf)(PDF)
     page to familiarize yourself with the definitions of each. Finally,
     consider why Cézanne has been called the “grandfather of Cubism” and
     what was his achievement.  
@@ -171,7 +171,7 @@ id="2.2"></span> 
     “François-Auguste-René Rodin”**
 
     Link: The Art Story Foundation’s Artists: “[François-Auguste-René
-    Rodin](http://www.saylor.org/site/wp-content/uploads/2012/11/the-art-story-foundation1.pdf)”
+    Rodin](https://resources.saylor.org/archived/wp-content/uploads/2012/11/the-art-story-foundation1.pdf)”
     (PDF)  
         
      Instructions: Read the linked page in full. You will note that
@@ -193,7 +193,7 @@ id="2.2"></span> 
 **2.2.2 Edvard Munch** <span id="2.2.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Edvard Munch”**
     Link: The Art Story Foundation’s Artists: [“Edvard
-    Munch”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.2.2-Edvard-Munch.pdf)
+    Munch”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.2.2-Edvard-Munch.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. What is Munch
@@ -202,7 +202,7 @@ id="2.2"></span> 
     paintings (i.e., The Sick Child, The Scream) have been identified as
     key predecessors to the German Expressionist movement. While reading
     this page, you may want to visit the ["Expressionism"
-    movement](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.4.1-Expressionism.pdf)
+    movement](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.4.1-Expressionism.pdf)
     (PDF) page for a preview, and consider why this claim has been made
     about Munch’s work.  
         
@@ -218,7 +218,7 @@ id="2.2"></span> 
 **2.2.3 Marc Chagall** <span id="2.2.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Marc Chagall”**
     Link: The Art Story Foundation’s Artists: [“Marc
-    Chagall”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.2.3-Marc-Chagall.pdf)
+    Chagall”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.2.3-Marc-Chagall.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. You will note in this
@@ -240,7 +240,7 @@ id="2.2"></span> 
 **2.3.1 Art Nouveau: Modern Decoration** <span id="2.3.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Art Nouveau”**
     Link: The Art Story Foundation’s Movements: [“Art
-    Nouveau”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.3.1-Art-Nouveau.pdf)
+    Nouveau”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.3.1-Art-Nouveau.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full.  Consider the reason
@@ -266,7 +266,7 @@ id="2.2"></span> 
 **2.3.2 Gustav Klimt** <span id="2.3.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Gustav Klimt”**
     Link: The Art Story Foundation’s Artists: [“Gustav
-    Klimt”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-2.3.2-Gustav-Klimt.pdf)
+    Klimt”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-2.3.2-Gustav-Klimt.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading you will
@@ -285,14 +285,14 @@ id="2.2"></span> 
 
 -   **Assessment: The Saylor Foundation's "Unit 2 Quiz"**
     Link: The Saylor Foundation's "[Unit 2
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-2-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-2-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please click on the link above to download this
     assessment.  Please complete all of the questions for the Unit 2
     Quiz, and then check your answers against the Saylor Foundation's
     "[Answer Key to Unit 2
-    Quiz."](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-2-Quiz-Answer-Key-FINAL.pdf)
+    Quiz."](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-2-Quiz-Answer-Key-FINAL.pdf)
     (PDF)  You should spend approximately 15 minutes completing this
     quiz. 
 

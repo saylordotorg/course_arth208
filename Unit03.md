@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.1.1 Fauvism** <span id="3.1.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Fauvism”**
     Link: The Art Story Foundation’s Movements:
-    [“Fauvism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.1.1-Fauvism.pdf)
+    [“Fauvism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.1.1-Fauvism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Compared to earlier
@@ -83,7 +83,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.1.2 Henri Matisse** <span id="3.1.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Henri Matisse”**
     Link: The Art Story Foundation’s Artists: [“Henri
-    Matisse”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.1.2-Henri-Matisse.pdf)
+    Matisse”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.1.2-Henri-Matisse.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading, you will
@@ -105,7 +105,7 @@ id="3.2"></span> 
 **3.2.1 Cubism** <span id="3.2.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Cubism”**
     Link: The Art Story Foundation’s Movements:
-    [“Cubism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.2.1-Cubism.pdf)
+    [“Cubism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.2.1-Cubism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading about the
@@ -128,7 +128,7 @@ id="3.2"></span> 
 **3.2.2 Pablo Picasso** <span id="3.2.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Pablo Picasso”**
     Link: The Art Story Foundation’s Artists: [“Pablo
-    Picasso”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.2.2-Pablo-Picasso.pdf) 
+    Picasso”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.2.2-Pablo-Picasso.pdf) 
     (PDF)  
         
      Instructions: Read the linked page in full. In the modern canon,
@@ -160,7 +160,7 @@ id="3.2"></span> 
 **3.2.3 Georges Braque** <span id="3.2.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Georges Braque”**
     Link: The Art Story Foundation’s Artists: [“Georges
-    Braque”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.2.3-Georges-Braque.pdf)
+    Braque”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.2.3-Georges-Braque.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Braque is one of the
@@ -184,7 +184,7 @@ id="3.2"></span> 
 **3.2.4 Fernand Léger** <span id="3.2.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Fernand Léger”**
     Link: The Art Story Foundation’s Artists: [“Fernand
-    Léger”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.2.4-Fernand-Leger.pdf)
+    Léger”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.2.4-Fernand-Leger.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Léger’s unique brand of
@@ -207,7 +207,7 @@ id="3.2"></span> 
 **3.3.1 Futurism** <span id="3.3.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Futurism”**
     Link: The Art Story Foundation’s Movements:
-    [“Futurism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.3.1-Futurism.pdf)
+    [“Futurism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.3.1-Futurism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Futurism was arguably
@@ -245,7 +245,7 @@ id="3.2"></span> 
 **3.3.2 Umberto Boccioni** <span id="3.3.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Umberto Boccioni”**
     Link: The Art Story Foundation’s Artists: [“Umberto
-    Boccioni”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.3.2-Umberto-Boccioni.pdf)
+    Boccioni”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.3.2-Umberto-Boccioni.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. Aside from Marinetti,
@@ -271,7 +271,7 @@ id="3.2"></span> 
 **3.4.1 Expressionism** <span id="3.4.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Expressionism”**
     Link: The Art Story Foundation’s Movements:
-    [“Expressionism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.4.1-Expressionism.pdf)
+    [“Expressionism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.4.1-Expressionism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading, look
@@ -296,7 +296,7 @@ id="3.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: Ernst Ludwig
     Kirchner”**
     Link: The Art Story Foundation’s Artists: [“Ernst Ludwig
-    Kirchner”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.4.2-Ernst-Ludwig-Kirchner.pdf)
+    Kirchner”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.4.2-Ernst-Ludwig-Kirchner.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Kirchner was one of the
@@ -320,7 +320,7 @@ id="3.2"></span> 
 **3.4.3 Wassily Kandinsky** <span id="3.4.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Wassily Kandinsky”**
     Link: The Art Story Foundation’s Artists: [“Wassily
-    Kandinsky”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-3.4.3-Wassily-Kandinsky.pdf)
+    Kandinsky”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-3.4.3-Wassily-Kandinsky.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Kandinsky’s
@@ -345,14 +345,14 @@ id="3.2"></span> 
 
 -   **Assessment: The Saylor Foundation's "Unit 3 Quiz"**
     Link: The Saylor Foundation's "[Unit 3
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-3-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-3-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please click on the link above to download this
     assessment.  Please complete all of the questions for the Unit 3
     Quiz, and then check your answers against the Saylor Foundation's
     "[Answer Key to Unit 3
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-3-Quiz-Answer-Key-FINAL.pdf)."
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-3-Quiz-Answer-Key-FINAL.pdf)."
     (PDF)  You should spend approximately 15 minutes completing this
     quiz.
 
