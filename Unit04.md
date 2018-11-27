@@ -94,7 +94,7 @@ id="4.1"></span> 
 **4.1.1 Suprematism** <span id="4.1.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Suprematism”**
     Link: The Art Story Foundation’s Movements:
-    [“Suprematism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.1.1-Suprematism.pdf)
+    [“Suprematism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.1.1-Suprematism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading this
@@ -118,7 +118,7 @@ id="4.1"></span> 
 **4.1.2 Kazimir Malevich** <span id="4.1.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Kazimir Malevich”**
     Link: The Art Story Foundation’s Artists: [“Kazimir
-    Malevich”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.1.2-Kazimir-Malevich.pdf)
+    Malevich”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.1.2-Kazimir-Malevich.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Malevich used a number
@@ -143,7 +143,7 @@ id="4.1"></span> 
 **4.1.3 El Lissitzky** <span id="4.1.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “El Lissitzky”**
     Link: The Art Story Foundation’s Artists: [“El
-    Lissitzky”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.1.3-El-Lissitzky.pdf)
+    Lissitzky”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.1.3-El-Lissitzky.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. El Lissitzky’s work was
@@ -167,7 +167,7 @@ id="4.1"></span> 
 id="4.2.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Constructivism”**
     Link: The Art Story Foundation’s Movements:
-    [“Constructivism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.2.1-Constructivism.pdf)
+    [“Constructivism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.2.1-Constructivism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. As with Suprematism,
@@ -191,7 +191,7 @@ id="4.2.1"></span> 
 **4.2.2 Vladimir Tatlin** <span id="4.2.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Vladimir Tatlin”**
     Link: The Art Story Foundation’s Artists: [“Vladimir
-    Tatlin”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.2.2-Vladimir-Tatlin.pdf)
+    Tatlin”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.2.2-Vladimir-Tatlin.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. Tatlin’s work, much
@@ -211,7 +211,7 @@ id="4.2.1"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Alexander
     Rodchenko”**
     Link: The Art Story Foundation’s Artists: [“Alexander
-    Rodchenko”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.2.3-Alexander-Rodchenko.pdf)
+    Rodchenko”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.2.3-Alexander-Rodchenko.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Rodchenko is a key
@@ -234,7 +234,7 @@ id="4.2.1"></span> 
 **4.3.1 Dada** <span id="4.3.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Dada”**
     Link: The Art Story Foundation’s Movements:
-    [“Dada”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.3.1-Dada.pdf)
+    [“Dada”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.3.1-Dada.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Dada was truly
@@ -269,7 +269,7 @@ id="4.2.1"></span> 
 **4.3.2 Marcel Duchamp** <span id="4.3.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Marcel Duchamp”**
     Link: The Art Story Foundation’s Artists: [“Marcel
-    Duchamp”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.3.2-Marcel-Duchamp.pdf)
+    Duchamp”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.3.2-Marcel-Duchamp.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Duchamp’s greatest
@@ -291,7 +291,7 @@ id="4.2.1"></span> 
 **4.3.3 Francis Picabia** <span id="4.3.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Francis Picabia”**
     Link: The Art Story Foundation’s Artists: [“Francis
-    Picabia”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.3.3-Francis-Picabia.pdf)
+    Picabia”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.3.3-Francis-Picabia.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Unlike most modern
@@ -313,7 +313,7 @@ id="4.2.1"></span> 
 **4.3.4 Man Ray** <span id="4.3.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Man Ray”**
     Link: The Art Story Foundation’s Artists: [“Man
-    Ray”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.3.4-Man-Ray.pdf)
+    Ray”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.3.4-Man-Ray.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Man Ray’s most
@@ -337,7 +337,7 @@ Results** <span id="4.4"></span> 
 **4.4.1 Bauhaus** <span id="4.4.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Bauhaus”**
     Link: The Art Story Foundation’s Movements:
-    [“Bauhaus”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.4.1-Bauhaus.pdf)
+    [“Bauhaus”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.4.1-Bauhaus.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. In existence from 1919
@@ -359,7 +359,7 @@ Results** <span id="4.4"></span> 
 **4.4.2 Josef Albers** <span id="4.4.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Josef Albers”**
     Link: The Art Story Foundation’s Artists: [“Josef
-    Albers”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.4.2-Josef-Albers.pdf)
+    Albers”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.4.2-Josef-Albers.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading, you will
@@ -379,7 +379,7 @@ Results** <span id="4.4"></span> 
 **4.4.3 Paul Klee** <span id="4.4.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Paul Klee”**
     Link: The Art Story Foundation’s Artists: [“Paul
-    Klee”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.4.3-Paul-Klee.pdf)
+    Klee”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.4.3-Paul-Klee.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. You will note in
@@ -401,7 +401,7 @@ Results** <span id="4.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Laszlo
     Moholy-Nagy”**
     Link: The Art Story Foundation’s Artists: [“Laszlo
-    Moholy-Nagy”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.4.4-Laszlo-Moholy-Nagy.pdf)
+    Moholy-Nagy”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.4.4-Laszlo-Moholy-Nagy.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Moholy-Nagy is among
@@ -426,7 +426,7 @@ id="4.5"></span> 
 **4.5.1 Surrealism** <span id="4.5.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Surrealism”**
     Link: The Art Story Foundation’s Movements:
-    [“Surrealism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.5.1-Surrealism.pdf)
+    [“Surrealism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.5.1-Surrealism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. One of the central
@@ -449,7 +449,7 @@ id="4.5"></span> 
 -   **Reading: Reading: The Art Story Foundation’s Artists: “André
     Breton”**
     Link: The Art Story Foundation’s Artists: [“André
-    Breton”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.5.2-Andre-Breton.pdf)
+    Breton”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.5.2-Andre-Breton.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. Breton has been called
@@ -483,7 +483,7 @@ id="4.5"></span> 
 **4.5.3 Max Ernst** <span id="4.5.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Max Ernst”**
     Link: The Art Story Foundation’s Artists: [“Max
-    Ernst”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.5.3-Max-Ernst.pdf)
+    Ernst”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.5.3-Max-Ernst.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. As one of Surrealism’s
@@ -503,7 +503,7 @@ id="4.5"></span> 
 **4.5.4 René Magritte** <span id="4.5.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “René Magritte”**
     Link: The Art Story Foundation’s Artists: [“René
-    Magritte”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.5.4-Rene-Magritte.pdf)
+    Magritte”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.5.4-Rene-Magritte.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading this
@@ -526,7 +526,7 @@ id="4.5"></span> 
 **4.5.5 Salvador Dalí** <span id="4.5.5"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Salvador Dalí”**
     Link: The Art Story Foundation’s Artists: [“Salvador
-    Dalí”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.5.5-Salvador-Dali.pdf)
+    Dalí”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.5.5-Salvador-Dali.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. No other Surrealist is
@@ -549,7 +549,7 @@ id="4.5"></span> 
 **4.5.6 Joan Miró** <span id="4.5.6"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Joan Miró”**
     Link: The Art Story Foundation’s Artists: [“Joan
-    Miró”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-4.5.6-Joan-Miro.pdf)
+    Miró”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-4.5.6-Joan-Miro.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Miró’s Surrealist works
@@ -568,16 +568,16 @@ id="4.5"></span> 
 
 -   **Assessment: The Saylor Foundation's "Unit 4 Essay"**
     Link: The Saylor Foundation's "[Unit 4
-    Essay](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-4-Essay-FINAL.pdf)"
+    Essay](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-4-Essay-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please click on the link above to download the
     instructions to write this essay.  Please address all of the
     questions for your essay, and then check your response against the
     Saylor Foundation's "[Rubric for Unit 4
-    Essay](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-4-Rubric-for-Essay-FINAL.pdf)" (PDF)
+    Essay](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-4-Rubric-for-Essay-FINAL.pdf)" (PDF)
     and the “[Sample
-    Essay](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-4-Sample-Essay-FINAL.pdf).” (PDF)
+    Essay](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-4-Sample-Essay-FINAL.pdf).” (PDF)
     You should spend approximately 1 hour completing this short essay
     and checking your response against the rubric and sample essay. 
 

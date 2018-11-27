@@ -53,7 +53,7 @@ Upon successful completion of this unit, the student will be able to:
     Academy of Art”**
     Link: The Art Story Foundation’s Terms and Concepts: “[The Academy
     of
-    Art](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-1.1.1-Academy-of-Art.pdf)”
+    Art](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-1.1.1-Academy-of-Art.pdf)”
     (PDF)  
         
      Instructions: Read the linked page in full. While reading, you may
@@ -73,7 +73,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1.2 Gustave Courbet and Realism** <span id="1.1.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Gustave Courbet”**
     Link: The Art Story Foundation’s Artists: [“Gustave
-    Courbet”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-1.1.2-Gustave-Courbet.pdf)
+    Courbet”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-1.1.2-Gustave-Courbet.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full, while paying
@@ -97,7 +97,7 @@ Upon successful completion of this unit, the student will be able to:
 id="1.1.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Edgar Degas”**
     Link: The Art Story Foundation’s Artists: [“Edgar
-    Degas”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-1.1.3-Edgar-Degas.pdf)
+    Degas”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-1.1.3-Edgar-Degas.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading, consider
@@ -118,7 +118,7 @@ id="1.1.3"></span> 
 **1.2.1 Impressionism** <span id="1.2.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Impressionism”**
     Link: The Art Story Foundation’s Movements:
-    [“Impressionism”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-1.2.1-Impressionism.pdf)
+    [“Impressionism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-1.2.1-Impressionism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Pay close attention to,
@@ -139,7 +139,7 @@ id="1.2.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Édouard Manet”**
 
     Link: The Art Story Foundation’s Artists: “[Édouard
-    Manet](http://www.saylor.org/site/wp-content/uploads/2012/11/the-art-story-foundation-2.pdf)”
+    Manet](https://resources.saylor.org/archived/wp-content/uploads/2012/11/the-art-story-foundation-2.pdf)”
     (PDF)  
         
      Instructions: Read the linked page in full. Pay close attention to
@@ -159,7 +159,7 @@ id="1.2.2"></span> 
 **1.2.3 Claude Monet** <span id="1.2.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Claude Monet”**
     Link: The Art Story Foundation’s Artists: “[Claude
-    Monet”](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH208-1.2.3-Claude-Monet.pdf)
+    Monet”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-1.2.3-Claude-Monet.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. You will note from this
@@ -178,14 +178,14 @@ id="1.2.2"></span> 
 
 -   **Assessment: The Saylor Foundation's "Unit 1 Quiz"**
     Link: The Saylor Foundation's “[Unit 1
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-1-Assessment-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-1-Assessment-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please click on the link above to download this
     assessment.  Please complete all of the questions for the Unit 1
     Quiz, and then check your answers against the Saylor Foundation's
     "[Answer Key to Unit 1
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/04/ARTH208-Unit-1-Assessment-Answer-Key-FINAL.pdf)." (PDF)
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-1-Assessment-Answer-Key-FINAL.pdf)." (PDF)
     You should spend approximately 15 minutes completing this quiz. 
 
 
