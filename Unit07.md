@@ -88,7 +88,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.1.1 Post-Minimalism** <span id="7.1.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Post-Minimalism”**
     Link: The Art Story Foundation’s Movements:
-    [“Post-Minimalism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.1.1-Post-Minimalism.pdf)
+    [“Post-Minimalism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.1.1-Post-Minimalism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading this
@@ -114,7 +114,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.1.2 Richard Serra** <span id="7.1.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Richard Serra”**
     Link: The Art Story Foundation’s Artists: [“Richard
-    Serra”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.1.2-Richard-Serra.pdf)
+    Serra”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.1.2-Richard-Serra.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Richard Serra’s
@@ -137,7 +137,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.1.3 Eva Hesse** <span id="7.1.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Eva Hesse”**
     Link: The Art Story Foundation’s Artists: [“Eva
-    Hesse”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.1.3-Eva-Hesse.pdf)
+    Hesse”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.1.3-Eva-Hesse.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Originally trained as a
@@ -161,7 +161,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.1.4 Robert Smithson and Land Art** <span id="7.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Robert Smithson”**
     Link: The Art Story Foundation’s Artists: [“Robert
-    Smithson”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.1.4-Robert-Smithson.pdf)
+    Smithson”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.1.4-Robert-Smithson.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Smithson is well known
@@ -187,7 +187,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.2.1 Conceptual Art** <span id="7.2.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Conceptual Art”**
     Link: The Art Story Foundation’s Movements: [“Conceptual
-    Art”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.2.1-Conceptual-Art.pdf)
+    Art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.2.1-Conceptual-Art.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Conceptual art, or
@@ -209,7 +209,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.2.2 Sol LeWitt** <span id="7.2.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Sol LeWitt”**
     Link: The Art Story Foundation’s Artists: [“Sol
-    LeWitt”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.2.2-Sol-LeWitt.pdf)  
+    LeWitt”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.2.2-Sol-LeWitt.pdf)  
         
      Instructions: Read the linked page in full. Sol LeWitt is
     considered by many to be the quintessential Conceptual artist, not
@@ -244,7 +244,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.2.3 Joseph Beuys** <span id="7.2.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Joseph Beuys”**
     Link: The Art Story Foundation’s Artists: [“Joseph
-    Beuys”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.2.3-Joseph-Beuys.pdf)
+    Beuys”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.2.3-Joseph-Beuys.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Beuys had a number of
@@ -267,7 +267,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.2.4 John Baldessari** <span id="7.2.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “John Baldessari”**
     Link: The Art Story Foundation’s Artists: [“John
-    Baldessari”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.2.4-John-Baldessari.pdf)
+    Baldessari”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.2.4-John-Baldessari.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Baldessari’s art is
@@ -309,7 +309,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.3.1 Performance Art** <span id="7.3.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Performance art”**
     Link: The Art Story Foundation’s Movements: [“Performance
-    art”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.3.1-Performance-Art.pdf)
+    art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.3.1-Performance-Art.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Performance art, much
@@ -334,7 +334,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.3.2 Happenings** <span id="7.3.2"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Happenings”**
     Link: The Art Story Foundation’s Movements:
-    [“Happenings”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.3.2-Happenings.pdf)
+    [“Happenings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.3.2-Happenings.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Happenings are a form
@@ -355,7 +355,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.3.3 Allan Kaprow** <span id="7.3.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Allan Kaprow”**
     Link: The Art Story Foundation’s Artists: [“Allan
-    Kaprow”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.3.3-Allan-Kaprow.pdf)
+    Kaprow”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.3.3-Allan-Kaprow.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Allan Kaprow is
@@ -378,7 +378,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.3.4 Marina Abramovi?** <span id="7.3.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Marina Abramovi?”**
     Link: The Art Story Foundation’s Artists: [“Marina
-    Abramovi?”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.3.4-Marina-Abramovic.pdf)
+    Abramovi?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.3.4-Marina-Abramovic.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Marina Abramovi? is
@@ -405,7 +405,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Terms and Concepts: “Feminist
     Art”**
     Link: The Art Story Foundation’s Movements: [“Feminist
-    Art”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ARTH208-7.4.1-FeministArt.pdf)
+    Art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ARTH208-7.4.1-FeministArt.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full.  
@@ -421,7 +421,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.4.2 Judy Chicago** <span id="7.4.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Judy Chicago”**
     Link: The Art Story Foundation’s Artists: [“Judy
-    Chicago”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ARTH208-7.4.2-JudyChicago.pdf)
+    Chicago”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ARTH208-7.4.2-JudyChicago.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full.  
@@ -438,7 +438,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Artists: “Carolee
     Schneemann”**
     Link: The Art Story Foundation’s Artists: [“Carolee
-    Schneemann”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ARTH208-7.4.3-CaroleeSchneemann.pdf)
+    Schneemann”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ARTH208-7.4.3-CaroleeSchneemann.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full.  
@@ -456,7 +456,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Movements:
     “Neo-Expressionism”**
     Link: The Art Story Foundation’s Movements:
-    [“Neo-Expressionism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.5-Neo-Expressionism.pdf)
+    [“Neo-Expressionism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.5-Neo-Expressionism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Following the demise of
@@ -482,7 +482,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.5.2 Georg Baselitz** <span id="7.5.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Georg Baselitz”**
     Link: The Art Story Foundation’s Artists: [“Georg
-    Baselitz”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.5.2-Georg-Baselitz.pdf)
+    Baselitz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.5.2-Georg-Baselitz.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. If one considers
@@ -504,7 +504,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.5.3 Julian Schnabel** <span id="7.5.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Julian Schnabel”**
     Link: The Art Story Foundation’s Artists: [“Julian
-    Schnabel”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.5.3-Julian-Schnabel.pdf)
+    Schnabel”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.5.3-Julian-Schnabel.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Schnabel has claimed
@@ -529,7 +529,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Artists: “Jean-Michael
     Basquiat”**
     Link: The Art Story Foundation’s Artists: [“Jean-Michel
-    Basquiat”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-7.5.4-Jean-Michel-Basquiat.pdf)
+    Basquiat”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-7.5.4-Jean-Michel-Basquiat.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Few artists in history
@@ -552,14 +552,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation's "Unit 7 Quiz"**
     Link: The Saylor Foundation's "[Unit 7
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-7-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ARTH208-Unit-7-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please click on the link above to download this
     assessment.  Please complete all of the questions for the Unit 7
     Quiz, and then check your answers against the Saylor Foundation's
     "[Answer Key to Unit 7
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-7-Quiz-Answer-Key-FINAL.pdf)." (PDF)
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ARTH208-Unit-7-Quiz-Answer-Key-FINAL.pdf)." (PDF)
     You should spend approximately 15 minutes completing this quiz.   
       
 

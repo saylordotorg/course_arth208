@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Artists: “Robert
     Rauschenberg”**
     Link: The Art Story Foundation’s Artists: [“Robert
-    Rauschenberg”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.1.2-Robert-Rauschenberg.pdf)
+    Rauschenberg”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.1.2-Robert-Rauschenberg.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Rauschenberg’s most
@@ -82,7 +82,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.1.3 Jasper Johns** <span id="6.1.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Jasper Johns”**
     Link: The Art Story Foundation’s Artists: [“Jasper
-    Johns”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.1.3-Jasper-Johns.pdf)
+    Johns”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.1.3-Jasper-Johns.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Much of Johns’s most
@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.2.1 Pop Art** <span id="6.2.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Pop Art”**
     Link: The Art Story Foundation’s Movements: [“Pop
-    Art”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.2.1-Pop-Art.pdf)
+    Art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.2.1-Pop-Art.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. While reading this
@@ -123,7 +123,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.2.2 Andy Warhol** <span id="6.2.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Andy Warhol”**
     Link: The Art Story Foundation’s Artists: [“Andy
-    Warhol”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.2.2-Andy-Warhol.pdf)
+    Warhol”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.2.2-Andy-Warhol.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. Andy Warhol is perhaps
@@ -150,7 +150,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.2.3 Roy Lichtenstein** <span id="6.2.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Roy Lichtenstein”**
     Link: The Art Story Foundation’s Artists: [“Roy
-    Lichtenstein”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.2.3-Roy-Lichtenstein.pdf)
+    Lichtenstein”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.2.3-Roy-Lichtenstein.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Lichtenstein’s
@@ -173,7 +173,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.3.1 Minimalism** <span id="6.3.1"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Minimalism”**
     Link: The Art Story Foundation’s Movements:
-    [“Minimalism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.3-Minimalism.pdf)
+    [“Minimalism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.3-Minimalism.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. While reading this
@@ -196,7 +196,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.3.2 Donald Judd** <span id="6.3.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Donald Judd”**
     Link: The Art Story Foundation’s Artists: [“Donald
-    Judd”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.3.2-Donald-Judd.pdf)
+    Judd”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.3.2-Donald-Judd.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Despite the seemingly
@@ -220,7 +220,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.3.3 Frank Stella** <span id="6.3.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Frank Stella”**
     Link: The Art Story Foundation’s Artists: [“Frank
-    Stella”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.3.3-Frank-Stella.pdf)
+    Stella”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.3.3-Frank-Stella.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Frank Stella is well
@@ -242,7 +242,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.3.4 Carl Andre** <span id="6.3.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Carl Andre”**
     Link: The Art Story Foundation’s Artists: [“Carl
-    Andre”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-6.3.4-Carl-Andre.pdf)
+    Andre”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-6.3.4-Carl-Andre.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Pay close attention to
@@ -277,14 +277,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation's "Unit 6 Quiz"**
     Link: The Saylor Foundation's "[Unit 6
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-6-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ARTH208-Unit-6-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please click on the link above to download this
     assessment.  Please complete all of the questions for the Unit 6
     Quiz, and then check your answers against the Saylor Foundation's
     "[Answer Key to Unit 6
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-6-Quiz-Answer-Key-FINAL.pdf)."
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ARTH208-Unit-6-Quiz-Answer-Key-FINAL.pdf)."
     (PDF) You should spend approximately 15 minutes completing this
     quiz. 
 

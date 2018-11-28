@@ -100,7 +100,7 @@ Upon successful completion of this unit, the student will be able to:
     Project of The Works Progress Administration (WPA)”**
     Link: The Art Story Foundation’s Organizations: [“Federal Art
     Project of The Works Progress Administration
-    (WPA)”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.1.1-Federal-Art-Project-of-The-Works-Progress-Administration-WPA.pdf)
+    (WPA)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.1.1-Federal-Art-Project-of-The-Works-Progress-Administration-WPA.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. The Works Progress
@@ -123,7 +123,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Artists: “Thomas Hart
     Benton”**
     Link: The Art Story Foundation’s Artists: [“Thomas Hart
-    Benton”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.1.2-Thomas-Benton.pdf)
+    Benton”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.1.2-Thomas-Benton.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Thomas Hart Benton is
@@ -146,7 +146,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.1.1.3 Hans Hofmann** <span id="5.1.1.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Hans Hofmann”**
     Link: The Art Story Foundation’s Artists: [“Hans
-    Hofmann”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.1.3-Hans-Hoffman.pdf)
+    Hofmann”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.1.3-Hans-Hoffman.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Hofmann was a major
@@ -168,7 +168,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.1.1.4 Piet Mondrian** <span id="5.1.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Piet Mondrian”**
     Link: The Art Story Foundation’s Artists: [“Piet
-    Mondrian”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.1.4-Piet-Mondrian.pdf)
+    Mondrian”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.1.4-Piet-Mondrian.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. In this page, there are
@@ -191,7 +191,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Museums: “The Museum of Modern
     Art (MoMA)”**
     Link: The Art Story Foundation’s Museums: [“The Museum of Modern Art
-    (MoMA)”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.1.5-Museum-of-Modern-Art.pdf)
+    (MoMA)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.1.5-Museum-of-Modern-Art.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Although it is
@@ -214,7 +214,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Art Story Foundation’s Art Influencer: “Alfred H.
     Barr, Jr.”**
     Link: The Art Story Foundation’s Art Influencer: [“Alfred H. Barr,
-    Jr.”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.1.5-Alfred-H-Barr-Jr.pdf)
+    Jr.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.1.5-Alfred-H-Barr-Jr.pdf)
     (PDF)  
         
      Instructions: Please read the linked page in full.  
@@ -236,7 +236,7 @@ id="5.1.2"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Abstract
     Expressionism”**
     Link: The Art Story Foundation’s Movements: [“Abstract
-    Expressionism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.2-Abstract-Expressionism.pdf)
+    Expressionism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.2-Abstract-Expressionism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Up until the emergence
@@ -278,7 +278,7 @@ id="5.1.2"></span> 
 **5.1.2.2 Jackson Pollock** <span id="5.1.2.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Jackson Pollock”**
     Link: The Art Story Foundation’s Artists: [“Jackson
-    Pollock”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.1.2-Jackson-Pollock.pdf)
+    Pollock”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.1.2-Jackson-Pollock.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Jackson Pollock is best
@@ -302,7 +302,7 @@ id="5.1.2"></span> 
 **5.1.2.3 Mark Rothko** <span id="5.1.2.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Mark Rothko”**
     Link: The Art Story Foundation’s Artists: [“Mark
-    Rothko”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.2.3-Mark-Rothko.pdf)
+    Rothko”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.2.3-Mark-Rothko.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Rothko’s work is among
@@ -326,7 +326,7 @@ id="5.1.2"></span> 
 **5.1.2.4 Barnett Newman** <span id="5.1.2.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Barnett Newman”**
     Link: The Art Story Foundation’s Artists: [“Barnett
-    Newman”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.2.4-Barnett-Newman.pdf)
+    Newman”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.2.4-Barnett-Newman.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. In this page, look
@@ -349,7 +349,7 @@ id="5.1.2"></span> 
 -   **Reading: The Art Story Foundation’s Modern Art Terms:
     “Existentialism”**
     Link: The Art Story Foundation’s Modern Art Terms:
-    [“Existentialism”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.3-Existensialism.pdf)
+    [“Existentialism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.3-Existensialism.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Take note of the
@@ -386,7 +386,7 @@ id="5.1.2"></span> 
 **5.1.3.2 Willem de Kooning** <span id="5.1.3.2"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Willem de Kooning”**
     Link: The Art Story Foundation’s Artists: [“Willem de
-    Kooning”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.3.2-Willem-de-Kooning.pdf)
+    Kooning”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.3.2-Willem-de-Kooning.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Among the Abstract
@@ -415,7 +415,7 @@ id="5.1.2"></span> 
     vs. Figurative Art”**
     Link: The Art Story Foundation’s Modern Art Terms: [“Abstract vs.
     Figurative
-    Art,”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/The-Art-Story_-Comparison_-Abstract-vs.-Figurative-Art.pdf)
+    Art,”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/The-Art-Story_-Comparison_-Abstract-vs.-Figurative-Art.pdf)
     (PDF)  
         
      Instructions: Please read the linked page in full.  
@@ -434,7 +434,7 @@ id="5.1.2"></span> 
 **5.1.3.3 Franz Kline** <span id="5.1.3.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Franz Kline”**
     Link: The Art Story Foundation’s Artists: [“Franz
-    Kline”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.1.3.3-Franz-Kline.pdf)
+    Kline”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.1.3.3-Franz-Kline.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. The work of Franz Kline
@@ -454,7 +454,7 @@ id="5.1.2"></span> 
 
 -   **Reading: Wikipedia’s “Action Painting”**
     Link: Wikipedia’s [“Action
-    Painting”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-Wikipedia-Action-Painting-2.24.2012.pdf)
+    Painting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-Wikipedia-Action-Painting-2.24.2012.pdf)
     (PDF)  
         
      Instructions: Please read the linked page in full.  
@@ -475,7 +475,7 @@ id="5.1.2"></span> 
     “Clement Greenberg”**
     Link: [The Art Story Foundation’s Art Theory and Art Critics:
     "Clement Greenberg"  
-    (PDF)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.1-Clement-Greenberg.pdf)  
+    (PDF)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.1-Clement-Greenberg.pdf)  
         
      Instructions: Read the linked page in full. Clement Greenberg was
     one of the two most important mid-century art critics and theorists,
@@ -526,7 +526,7 @@ id="5.1.2"></span> 
     “Harold Rosenberg”**
     Link: The Art Story Foundation’s Art Theory and Art Critics:
     [“Harold
-    Rosenberg”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.1.2-Harold-Rosenberg.pdf)
+    Rosenberg”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.1.2-Harold-Rosenberg.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Rosenberg is well known
@@ -567,7 +567,7 @@ Painting)** <span id="5.2.1.3"></span> 
     Comparison: “Clement Greenberg vs. Harold Rosenberg”**
     Link: The Art Story Foundation’s Art Critics Comparison: [“Clement
     Greenberg vs. Harold
-    Rosenberg”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/The-Art-Story_-Clement-Greenberg-vs-Harold-Rosenberg.pdf)
+    Rosenberg”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/The-Art-Story_-Clement-Greenberg-vs-Harold-Rosenberg.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. This comparison chart
@@ -590,7 +590,7 @@ id="5.2.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Art Theory and Art Critics:
     “Leo Steinberg”**
     Link: The Art Story Foundation’s Art Theory and Art Critics: [“Leo
-    Steinberg”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.1.4-Leo-Steinberg.pdf)
+    Steinberg”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.1.4-Leo-Steinberg.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. When examining the
@@ -615,7 +615,7 @@ id="5.2.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Helen
     Frankenthaler”**
     Link: The Art Story Foundation’s Artists: [“Helen
-    Frankenthaler”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.2-Helen-Frakenthaler.pdf)
+    Frankenthaler”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.2-Helen-Frakenthaler.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Helen Frankenthaler was
@@ -638,7 +638,7 @@ id="5.2.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Color Field
     Painting”**
     Link: The Art Story Foundation’s Movements: [“Color Field
-    Painting”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.2-Color-Field-Painting.pdf)
+    Painting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.2-Color-Field-Painting.pdf)
     (PDF)  
       
      Instructions: Please read the linked page in full.  
@@ -657,7 +657,7 @@ id="5.2.1.4"></span> 
 **5.2.2.2. Kenneth Noland** <span id="5.2.2.2."></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Kenneth Noland"**
     Link: The Art Story Foundation’s Artists: [“Kenneth
-    Noland”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.2.2-Kenneth-Noland.pdf)
+    Noland”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.2.2-Kenneth-Noland.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. Noland’s art represents
@@ -682,7 +682,7 @@ id="5.2.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Movements: “Post-Painterly
     Abstraction”**
     Link: The Art Story Foundation’s Movements: [“Post-Painterly
-    Abstraction”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.2.2-Post-Painterly-Abstraction.pdf)
+    Abstraction”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.2.2-Post-Painterly-Abstraction.pdf)
     (PDF)  
         
      Instructions: Please read the linked page in full.  
@@ -701,7 +701,7 @@ id="5.2.1.4"></span> 
 **5.2.2.3 Ellsworth Kelly** <span id="5.2.2.3"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Ellsworth Kelly”**
     Link: The Art Story Foundation’s Artists: [“Ellsworth
-    Kelly”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.2.3-Ellsworth-Kelly.pdf)
+    Kelly”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.2.3-Ellsworth-Kelly.pdf)
     (PDF)  
         
      Instructions: Read the linked page in full. In addition to Color
@@ -729,7 +729,7 @@ id="5.2.1.4"></span> 
 -   **Reading: The Art Story Foundation’s Artists: “Richard
     Diebenkorn”**
     Link: The Art Story Foundation’s Artists: [“Richard
-    Diebenkorn”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH208-5.2.2.4-Richard-Diebenkorn.pdf)
+    Diebenkorn”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH208-5.2.2.4-Richard-Diebenkorn.pdf)
     (PDF)  
       
      Instructions: Read the linked page in full. Diebenkorn and his art
@@ -752,14 +752,14 @@ id="5.2.1.4"></span> 
 -   **Assessment: The Saylor Foundation's "Unit 5 Short-Answer
     Questions"**
     Link: The Saylor Foundation's "[Unit 5 Short-Answer
-    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-5-Short-Answer-Questions-FINAL.pdf)"
+    Questions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ARTH208-Unit-5-Short-Answer-Questions-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please click on the link above to download this
     assessment.  Please complete all of the questions for the Unit 5
     Short-Answer Questions, and then check your answers against the
     Saylor Foundation's "[Sample Answers to Unit 5 Short-Answer
-    Questions.](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ARTH208-Unit-5-Sample-Answers-to-Short-Answer-Questions-FINAL.pdf)" (PDF)
+    Questions.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ARTH208-Unit-5-Sample-Answers-to-Short-Answer-Questions-FINAL.pdf)" (PDF)
     You should spend approximately 30 minutes completing 3 out of the 5
     questions. 
 
